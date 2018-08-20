@@ -1,0 +1,7 @@
+Redux form****
+https://esbenp.github.io/2017/01/06/react-native-redux-form-immutable-styled-components/
+
+Projects****
+https://github.com/sunlight3d/react_native_v0.49
+
+https://github.com/mariodev12/redux-boilerplate-react-native/blob/master/src/superheroesList.js
